@@ -1,1 +1,1 @@
-export * from './file-extension-validation';
+export * from './file-extension-validation.pipe';
